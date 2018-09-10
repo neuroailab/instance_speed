@@ -11,6 +11,6 @@ On one Titan-Xp, the model can get the speed of around 0.25 second/batch.
 ```
 python train_estimator.py --tpu_name your_tpu_name --exp_id your_exp_id --cache_dir_prefix /path/to/your/model/cache/folder --use_synth
 ```
-On TPU, the model can get the speed of around 0.5 second/batch.
+On TPU, the model can get the speed of around 0.5 second/batch (or even slower).
 
 
